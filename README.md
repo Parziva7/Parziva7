@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Parziva7
+- 👀 I’m interested in Gaming and Programming
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: DM
+-  Languages: German, Englisch, French, Chinese
