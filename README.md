@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Parziva7
-- 👀 I’m interested in Gaming and Programming
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm @Parziva7
+- 🎓 Recent Gymnasium Graduate with an Abitur grade of 1.8 (equals 3.4 GPA)
+- 👀 I'm interested in Gaming and Programming
+- 🌱 I'm currently learning Python and Java
 - 📫 How to reach me: DM
--  Languages: German, Englisch, French, Chinese
+- 🌐 Languages: German, English, French, Chinese
